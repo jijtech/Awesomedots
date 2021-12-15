@@ -2,4 +2,4 @@
          Dependencies Packages
 ----------------------------------------
 
-awesome alacritty xorg picom nm-applet acpid vim lxappearance nitrogen
+awesome xorg picom nm-applet acpid "vim or nano" lxappearance nitrogen rxvt-unicode
