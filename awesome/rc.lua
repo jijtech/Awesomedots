@@ -48,7 +48,7 @@ end
 beautiful.init(gears.filesystem.get_configuration_dir() .. "mytheme.lua")
 
 -- This is used later as the default terminal and editor to run.
-terminal = "alacritty"
+terminal = "urxvt"
 editor = os.getenv("vim") or "nano"
 editor_cmd = terminal .. " -e " .. editor
 
